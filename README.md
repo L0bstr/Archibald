@@ -2,5 +2,5 @@
 
 An Arch Linux setup inspired by Omarchy.
 
-[Ideas](./documentation/ideas.md)
-[Installation](./documentation/installation.md)
+[Ideas](./documentation/ideas.md)<br>
+[Installation](./documentation/installation.md)<br>
