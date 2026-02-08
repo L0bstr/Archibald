@@ -25,3 +25,5 @@ A set of configs and tools, which allows
 └── icons/
     └── icon.png
 ```
+
+[sddm config](https://man.archlinux.org/man/sddm.1.en)<br>
