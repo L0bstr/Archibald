@@ -16,14 +16,8 @@ A set of configs and tools, which allows
 - Quickshell - Toolkit for building status bars, widgets, lockscreens, and other desktop components
 - Zshell - shell
 
-## Grub theme
-```bash
-/boot/grub/themes/mytheme/
-├── theme.txt
-├── background.png
-├── fonts/
-└── icons/
-    └── icon.png
-```
-
-[sddm config](https://man.archlinux.org/man/sddm.1.en)<br>
+# Minimal config
+- [x] Grub
+- [ ] Sddm
+- [ ] Hyprland
+- [ ] Kitty
