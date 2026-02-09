@@ -2,6 +2,6 @@
 
 ## Copying files
 
-System config files → /etc/
-User config files → ~/.config/
-Scripts → ~/.local/bin
+0. Valid archlinux install
+1. Make sure every tool and program is installed
+2. Copy and generate config files
