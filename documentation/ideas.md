@@ -4,6 +4,10 @@ A set of configs and tools, which allows
 - easier and faster setup
 - dynamic theme change
 
+# System dependencies
+- JetBrainsMono NFM
+- pipewire
+
 # Base system ecosystem
 - Grub - bootloader
     - efibootmgr - UEFI firmware boot entrie manager
@@ -15,6 +19,7 @@ A set of configs and tools, which allows
 - Rofi - launcher/window switcher/dmenu replacement
 - Quickshell - Toolkit for building status bars, widgets, lockscreens, and other desktop components
 - Zshell - shell
+- swww - background manager
 
 # Minimal config
 - [x] Grub
