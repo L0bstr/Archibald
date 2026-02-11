@@ -21,8 +21,9 @@ A set of configs and tools, which allows
 - Zshell - shell
 - swww - background manager
 
-# Minimal config
+# Default config
 - [x] Grub
 - [ ] Sddm
-- [ ] Hyprland
-- [ ] Kitty
+- [x] Hyprland
+- [x] Kitty
+- [ ] Nvim

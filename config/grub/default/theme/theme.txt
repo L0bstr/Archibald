@@ -1,0 +1,38 @@
+# Global Properties
+title-text: "Nothing ahead"
+title-font: "JetBrainsMono NFM Regular 52"
+title-color: "#D9D9D9"
+desktop-color: "#262626"
+terminal-font: "JetBrainsMono NFM Regular 20"
+
+#Components
++ boot_menu {
+	item_font="JetBrainsMono NFM Regular 32"
+	item_color="#262626"
+	selected_item_color="#D9D9D9"
+	icon_width=30
+	icon_height=30
+	item_height=35
+	item_padding=-5
+	item_icon_space=20
+	item_spacing=25
+	menu_pixmap_style="boot_menu_*.png"
+	item_pixmap_style="boot_menu_*.png"
+	selected_item_pixmap_style="selected_item_*.png"
+
+	left=25%
+	top=30%
+	width=50%
+	height=40%
+}
+
++ progress_bar {
+	id="__timeout__"
+	bar_style="progress_frame_*.png"
+	highlight_style="progress_hl_*.png"
+
+	left=15%
+	top=94%
+	width=70%
+	height=1%
+}
