@@ -18,7 +18,7 @@ A set of configs and tools, which allows
   
 ## File structure
 
-### Configs
+### Configs/Themes
 ```
 Archibald/config/App/
 ├── theme_name/
@@ -31,9 +31,14 @@ Archibald/config/App/
     └── ...
 ```
 
-# Default config + theme
+## Default config + theme
 - [x] Grub
 - [ ] Sddm
 - [x] Hyprland
 - [x] Kitty
 - [ ] Nvim
+
+## Zsh plugins
+- https://github.com/zsh-users/zsh-autosuggestions
+- https://github.com/zsh-users/zsh-syntax-highlighting
+- https://github.com/romkatv/powerlevel10k
