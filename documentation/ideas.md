@@ -20,8 +20,25 @@ A set of configs and tools, which allows
 - Quickshell - Toolkit for building status bars, widgets, lockscreens, and other desktop components
 - Zshell - shell
 - swww - background manager
+  
+## File structure
 
-# Default config
+### Configs
+```
+Archibald/config/App/
+├── theme_name/
+│   ├── theme_config
+│   ├── theme_file1
+│   ├── theme_file2
+│   ├── theme_file3
+│   └── ...
+├── another_theme_name/
+│   └── ...
+└── default_config
+
+```
+
+# Default config + theme
 - [x] Grub
 - [ ] Sddm
 - [x] Hyprland
