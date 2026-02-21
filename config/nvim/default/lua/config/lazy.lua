@@ -20,7 +20,7 @@ vim.g.mapleader = " "
 -- Setup lazy.nvim
 require("lazy").setup({
    spec = {
-      { import = "default.plugins" }
+      { import = "config.plugins" }
    },
    -- automatically check for plugin updates
    -- checker = { enabled = true },
