@@ -1,11 +1,4 @@
-[SddmGreeterTheme]
-Name=Into Nothing
-Description=Dark minimal centered login card
-Author=Lobster
-License=GPL
-Type=sddm-theme
+[Desktop Entry]
+Name=Deafult
+Comment=Simple SDDM theme
 Version=1.0
-MainScript=Main.qml
-ConfigFile=theme.conf
-Theme-Id=into-nothing
-
