@@ -5,14 +5,15 @@ A set of configs and tools, which allows
 - more then 1 config/app save
 - dynamic theme and config change
 
-# System ecosystem
+# Graphical ecosystem
 - Grub - bootloader
 - SDDM - login manager
 - Hyprland - tiling window manager
+- Kitty - terminal emulator
 - Neovim - editor
 - Chrome - web browser
 - Rofi - launcher/window switcher/dmenu replacement (might be replaced by QuickShell)
-- Quickshell - Toolkit for building status bars, widgets, lockscreens, and other desktop components
+- Quickshell - toolkit for building status bars, widgets, lockscreens, and other desktop components
 - Zshell - shell
 - swww - background manager
   
@@ -22,13 +23,14 @@ A set of configs and tools, which allows
 ```
 Archibald/config/App/
 ├── theme_name/
-│   ├── theme_config
+│   ├── config.conf
 │   ├── theme_file1
 │   ├── theme_file2
 │   ├── theme_file3
 │   └── ...
-└── another_theme_name/
-    └── ...
+├── another_theme_name/
+│   └── ...
+└── apply_theme.sh
 ```
 
 ## Default config + theme
@@ -36,7 +38,9 @@ Archibald/config/App/
 - [ ] Sddm
 - [x] Hyprland
 - [x] Kitty
-- [ ] Nvim
+- [x] Nvim
+- [ ] Chrome (extra)
+- [ ] Quickshell
 
 ## Zsh plugins
 - https://github.com/zsh-users/zsh-autosuggestions
