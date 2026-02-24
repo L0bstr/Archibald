@@ -27,6 +27,7 @@ Archibald/config/App/
 │   ├── theme_file1
 │   ├── theme_file2
 │   ├── theme_file3
+│   ├── helper.sh
 │   └── ...
 ├── another_theme_name/
 │   └── ...
@@ -35,12 +36,13 @@ Archibald/config/App/
 
 ## Default config + theme
 - [x] Grub
-- [ ] Sddm
+- [x] Sddm
 - [x] Hyprland
 - [x] Kitty
 - [x] Nvim
 - [ ] Chrome (extra)
 - [ ] Quickshell
+- [ ] Global system theme and color prefrence setting
 
 ## Zsh plugins
 - https://github.com/zsh-users/zsh-autosuggestions
