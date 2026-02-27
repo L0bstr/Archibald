@@ -6,12 +6,15 @@ A set of configs and tools, which allows
 - dynamic theme and config change
 
 # Graphical ecosystem
+- Plymouth - bootslpash
 - Grub - bootloader
 - SDDM - login manager
 - Hyprland - tiling window manager
+- swaylock - screen lock
 - Kitty - terminal emulator
 - Neovim - editor
 - Chrome - web browser
+- Dolphin - file manager
 - Rofi - launcher/window switcher/dmenu replacement (might be replaced by QuickShell)
 - Quickshell - toolkit for building status bars, widgets, lockscreens, and other desktop components
 - Zshell - shell
@@ -35,16 +38,12 @@ Archibald/config/App/
 ```
 
 ## Default config + theme
+- [ ] Plymouth
 - [x] Grub
 - [x] Sddm
 - [x] Hyprland
+- [ ] swaylock
 - [x] Kitty
 - [x] Nvim
-- [ ] Chrome (extra)
 - [ ] Quickshell
-- [ ] Global system theme and color prefrence setting
-
-## Zsh plugins
-- https://github.com/zsh-users/zsh-autosuggestions
-- https://github.com/zsh-users/zsh-syntax-highlighting
-- https://github.com/romkatv/powerlevel10k
+- [ ] Dolphin
