@@ -13,7 +13,7 @@ A set of configs and tools, which allows
 - Grub - bootloader
 - greetd - login manager
 - Hyprland - tiling window manager
-- Kitty - terminal emulator
+- Kitty - terminal emulator (will switch to ghostty)
 - Neovim - editor
 - Chrome - web browser
 - Dolphin - file manager
@@ -22,8 +22,6 @@ A set of configs and tools, which allows
 - swww - background manager
 - Rofi - launcher/window switcher/dmenu replacement (might be replaced by QuickShell)
   
-## File structure
-
 ## Config
 - [ ] Plymouth
 - [x] Grub
