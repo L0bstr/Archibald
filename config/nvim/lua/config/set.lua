@@ -45,4 +45,3 @@ vim.diagnostic.config({
    signs = false,
    underline = true,
 })
-

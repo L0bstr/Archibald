@@ -12,12 +12,12 @@ terminal-font: "JetBrainsMono NFM Regular 20"
 	selected_item_color="#D9D9D9"
 	icon_width=30
 	icon_height=30
-	item_height=35
+	item_height=45
 	item_padding=-5
 	item_icon_space=20
 	item_spacing=25
-	menu_pixmap_style="boot_menu_*.png"
-	item_pixmap_style="boot_menu_*.png"
+	menu_pixmap_style="boot_menu/boot_menu_*.png"
+	item_pixmap_style="boot_menu/boot_menu_*.png"
 	selected_item_pixmap_style="selected_item_*.png"
 
 	left=25%

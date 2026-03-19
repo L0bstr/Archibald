@@ -21,7 +21,7 @@ PanelWindow {
       color: "#0D0D0D"
       width: parent.width
       height: parent.height
-      radius: 100
+      radius: 10
       
       Text {
          anchors.centerIn: parent
