@@ -1,12 +1,6 @@
 # Archibald
 
-An Arch Linux setup inspired by Omarchy.
-
-# Features
-
-A set of configs and tools, which allows
-- easier and faster setup
-- saving different configs and themes into profiles (maybe in the future)
+An Arch Linux dotfiles.
 
 # Main graphical ecosystem
 - Plymouth - bootslpash
