@@ -1,0 +1,30 @@
+# Pacman packages
+# One package per line, comments with #
+
+# Boot
+plymouth
+grub
+
+# Login
+greetd
+
+# WM
+hyprland
+
+# Terminal
+kitty
+
+# Editor
+neovim
+
+# File manager
+dolphin
+
+# Shell
+zsh
+
+# Wallpaper
+awww
+
+# Status bar / widgets
+quickshell

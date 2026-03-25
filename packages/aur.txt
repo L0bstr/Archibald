@@ -1,0 +1,8 @@
+# AUR packages
+# One package per line, comments with #
+ 
+# Browser
+google-chrome
+
+# Greeter
+greetd-qtgreet
